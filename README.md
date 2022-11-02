@@ -1,2 +1,5 @@
-# educational_projects
-My educational projects which I completed while studying at Yandex.Practicum
+В данном репозиторие представлены мои учебные проекты, выполненные для платформы Яндекс.Практикум.
+
+**Аналитические проекты** представлены в папке **data_analysis**.
+
+**Проекты по машинному обучению** представлены в папке **machine_learning**.
