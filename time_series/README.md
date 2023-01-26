@@ -11,6 +11,7 @@ Project 'Taxi orders number prediction'
 В ходе выполнения проекта были построены модели LinearRegression, DecisionTreeRegressor, LGBMRegressor и CatBoostRegressor, которые показали следующие результаты:
 
 |model|RMAE|
+|----|----|
 |LinearRegression	|32.237236|
 |DecisionTree|	32.668725|
 |LGBM	|25.792556|
